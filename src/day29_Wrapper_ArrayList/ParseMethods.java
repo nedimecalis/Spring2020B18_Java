@@ -97,8 +97,8 @@ public class ParseMethods {
         boolean r6 = Boolean.parseBoolean(result6);
         System.out.println(r6);
         // parse method ignores case sensitivity
-
-
+        // Any string that does not match "true"  will be returned false if we call the parse method from Boolean class
+        // Any string that matches "true", "TRUE", "TrUe", "truE", "tRue", etc..   will be returned true if we call the parse method from Boolean class
 
 
 
