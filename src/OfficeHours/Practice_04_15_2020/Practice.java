@@ -56,6 +56,11 @@ public class Practice {
             System.out.println(dizi);
         }
 
+        int reverse = isimlerimiz.length;
+         for(int i = reverse; i>=0;i--){
+
+         }
+
 
 
 

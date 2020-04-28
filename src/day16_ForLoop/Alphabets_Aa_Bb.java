@@ -1,6 +1,6 @@
 package day16_ForLoop;
 
-public class Alphabets {
+public class Alphabets_Aa_Bb {
 
     public static void main(String[] args) {
         String upperCase = ""; //A~Z

@@ -14,7 +14,7 @@ Example:
 input: What's the difference between java, javascript and python?
 output: false
  */
-public class r97_Equals_java_python_Loop_String {
+public class r97_Equals_java_python_WhileLoop_String {
 
 
         public static void main(String[] args) {

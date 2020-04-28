@@ -1,6 +1,6 @@
 package OfficeHours.Practice_04_08_2020;
 
-public class WhileLoops_Practice {
+public class WhileLoop_divisible {
     public static void main(String[] args) {
 
         for(int i = 0; i<5;i ++){

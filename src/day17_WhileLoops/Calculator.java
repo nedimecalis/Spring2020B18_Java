@@ -52,7 +52,7 @@ public class Calculator {
             System.out.println("Do you wanna continue");
             String answer = input.next();
 
-            if(answer.equalsIgnoreCase("no")){  // o0nly exits the loop if the answer is NO
+            if(answer.equalsIgnoreCase("no")){  // only exits the loop if the answer is NO
                 System.out.println("Thank you for using the calculator");
                 break;
             }

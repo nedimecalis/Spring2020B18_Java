@@ -2,7 +2,7 @@ package day17_WhileLoops;
 
 import java.util.Scanner;
 
-public class WhileLoopPractice {
+public class WhileLoopPractice_YesNo {
 
     public static void main(String[] args) {
 

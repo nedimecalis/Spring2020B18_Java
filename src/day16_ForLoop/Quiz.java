@@ -8,10 +8,12 @@ public class Quiz {
 
         for( i = 5; i < 10; ){ //i =11
             i += 2;
+           // System.out.println(i); prints 7 , 9 , 11
         }
 
-
         System.out.println(i);
+
+
 
         String str = " ";
 

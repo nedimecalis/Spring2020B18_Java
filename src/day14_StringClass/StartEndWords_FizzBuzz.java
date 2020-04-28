@@ -2,7 +2,7 @@ package day14_StringClass;
 
 import java.util.Scanner;
 
-public class StartEndWords {
+public class StartEndWords_FizzBuzz {
 
     /*
     2. Write a program StartEndWords:

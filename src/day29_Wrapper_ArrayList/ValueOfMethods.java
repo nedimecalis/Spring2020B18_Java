@@ -1,5 +1,7 @@
 package day29_Wrapper_ArrayList;
 
+import java.util.Arrays;
+
 public class ValueOfMethods {
 
     public static void main(String[] args) {
@@ -78,7 +80,15 @@ public class ValueOfMethods {
 
         System.out.println("=========================");
 
-        boolean[]
+        System.out.println("=================================");
+
+        char[] arr = new char[3];
+        System.out.println(Arrays.toString(arr) );
+
+        Integer[] arr2 = new  Integer[3];
+        System.out.println(Arrays.toString(arr2) );
+
+        // all default values of ValueofMethod is null
 
 
 

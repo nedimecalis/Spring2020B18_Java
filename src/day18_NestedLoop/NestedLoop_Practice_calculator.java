@@ -2,7 +2,7 @@ package day18_NestedLoop;
 
 import java.util.Scanner;
 
-public class NestedLoop_Practice {
+public class NestedLoop_Practice_calculator {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

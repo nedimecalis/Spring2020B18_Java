@@ -20,6 +20,7 @@ public class do_While_Practice {
         System.out.println();
 
         System.out.println("==============================");
+
         int i = 1; //2
         do{
             System.out.println(i);

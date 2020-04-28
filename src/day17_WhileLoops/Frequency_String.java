@@ -1,6 +1,6 @@
 package day17_WhileLoops;
 
-public class Frequency {
+public class Frequency_String {
 
     public static void main(String[] args) {
 
