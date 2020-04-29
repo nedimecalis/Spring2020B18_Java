@@ -42,7 +42,8 @@ public class Arrays_Sorting {
             k++;
         }
 
-        System.out.println(  Arrays.toString(arrDesc)  );
+
+
 
 
 
